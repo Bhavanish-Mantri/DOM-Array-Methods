@@ -6,6 +6,13 @@ This project visually displays users with random wealth values and allows differ
 
 ---
 
+## 🔗 Live Demo
+
+👉 **Live Project Link:**  
+https://bhavanish-mantri.github.io/DOM-Array-Methods/
+
+---
+
 ## 📌 Features
 
 - Add random users with generated wealth
